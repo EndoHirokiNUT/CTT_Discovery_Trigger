@@ -9,6 +9,6 @@
 If so, you may find your answer here.
 
 For full theory, see:
-- [CTT Part I: Mathematical Foundations]([DOI:10.5281/zenodo.15505202](https://zenodo.org/records/15505202))
-- [CTT Part II: Observation Geometry]([DOI:10.5281/zenodo.15522168](https://zenodo.org/records/15522168))
-- [CTT Part III: Applications to Continuum Mechanics]([DOI:10.5281/zenodo.15459731](https://zenodo.org/records/15459731))
+- [CTT Part I: Mathematical Foundations](https://zenodo.org/records/15505202)
+- [CTT Part II: Observation Geometry](https://zenodo.org/records/15522168)
+- [CTT Part III: Applications to Continuum Mechanics](https://zenodo.org/records/15459731)
